@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { throwError } from 'rxjs';
+
 import { HttpClient} from '@angular/common/http';
 
 @Component({
